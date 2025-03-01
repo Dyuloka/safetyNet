@@ -14,4 +14,3 @@ Frontend: React.js (if applicable)
 Authentication: JWT (JSON Web Token)
 File Uploads: Multer middleware
 Email Service: Resend
-I
