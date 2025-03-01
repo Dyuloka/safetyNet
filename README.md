@@ -10,7 +10,7 @@ Emergency Email Notifications: Departments can send urgent emails using Resend.
 Tech Stack
 Backend: Node.js, Express.js
 Database: MongoDB
-Frontend: React.js (if applicable)
+Frontend: React.js
 Authentication: JWT (JSON Web Token)
 File Uploads: Multer middleware
 Email Service: Resend
